@@ -2,6 +2,8 @@
 
 Два экземпляра одного Go-сервиса, метрики latency, RPS и ошибок, дашборд Grafana по живому списку ручек и фоновая нагрузка k6.
 
+Оригинальный репозиторий с коммитами тут github.com:ekubyshin/highload-lab1.git
+
 ## Запуск
 
 Нужны Docker и Docker Compose.
